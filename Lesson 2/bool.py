@@ -1,0 +1,11 @@
+a=-2
+b=1
+print(a>b)
+print(a>=b)
+print(a<b)
+print(a<=b)
+print(a==b)
+print(a!=b)
+print(4**4)
+print(-a)
+print(True==0)
