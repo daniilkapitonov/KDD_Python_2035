@@ -1,0 +1,5 @@
+s = input()
+s = s.replace("(",".")
+s = s.replace(")",".")
+m = s.split(".")
+print(m[0]+m[-1])
